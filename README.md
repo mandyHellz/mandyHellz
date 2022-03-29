@@ -19,7 +19,10 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandyHellz&show_icons=true&count_private=true&hide=stars&custom_title=Stats&title_color=E2ABB1&icon_color=E2ABB1&border_color=E2ABB1)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandyHellz&show_icons=true&count_private=true&hide=stars&custom_title=Stats&title_color=E2ABB1&icon_color=E2ABB1&border_color=E2ABB1) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Let's get connected:
 
