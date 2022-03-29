@@ -1,4 +1,4 @@
-<p align="center"><img height="250" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif"></p>
+<p align="center"><img src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif"></p>
 
 <h1 align="center"> Welcome! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50"></h1>
 <br>
@@ -21,6 +21,6 @@
 
 ## Let's get connected:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-nunes-b2307483)](www.linkedin.com/in/amanda-nunes-b2307483)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-nunes-b2307483)](https://www.linkedin.com/in/amanda-nunes-b2307483)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mandyHellz)](https://github.com/mandyHellz)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=41999466274&text=Hello!)](https://api.whatsapp.com/send?phone=999637142_55+41+999466274&text=Hello!)
