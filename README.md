@@ -1,4 +1,4 @@
-<p align="center"><img width="1200" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif"></p>
+<p align="center"><img object-fit="contain" width="550" src="https://c.tenor.com/eQlXwfXcQ4YAAAAC/anime-computer.gif"></p>
 
 # Welcome! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
 
