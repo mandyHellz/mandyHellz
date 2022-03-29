@@ -1,4 +1,4 @@
-<p align="center"><img object-fit="cover" src="https://pa1.narvii.com/6532/b6c7b2dd7a93063827409b16b1da700e71f77c13_hq.gif"></p>
+<p align="center"><img object-fit="cover" width="700" src="https://pa1.narvii.com/6532/b6c7b2dd7a93063827409b16b1da700e71f77c13_hq.gif"></p>
 
 # Welcome! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
 
