@@ -4,7 +4,7 @@
 <br>
 <h2>Hey, I'm Amanda!</h2>
 <p>A Biomedical-Pharmaceutical specialized in Molecular Biology who fell in love with the world of coding and after a challenging career transition and a path full of studies, became a Front-end Developer on a continuous learning.</p>
-<br><br>
+<br>
 
 ## Tecnologies:
 
@@ -17,10 +17,10 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<br><br>
+<br>
 
 ## Let's get connected:
 
-[![Linkedin Badge](https://www.linkedin.com/in/amanda-nunes-b2307483/)](www.linkedin.com/in/amanda-nunes-b2307483)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MarceloNFilho)](https://github.com/mandyHellz)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=92999637142&text=Hello!)](https://api.whatsapp.com/send?phone=999637142_55+92+999637142&text=Hello!)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-nunes-b2307483)](www.linkedin.com/in/amanda-nunes-b2307483)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mandyHellz)](https://github.com/mandyHellz)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=41999466274&text=Hello!)](https://api.whatsapp.com/send?phone=999637142_55+41+999466274&text=Hello!)
