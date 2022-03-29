@@ -1,4 +1,4 @@
-<img align="right" height="100" src="https://media0.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif?cid=790b76116c458e58ec2eed323ef6c0759e83c4c91edd8cb3&rid=giphy.gif&ct=s">
+<img align="right" height="150" width="200" src="https://media0.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif?cid=790b76116c458e58ec2eed323ef6c0759e83c4c91edd8cb3&rid=giphy.gif&ct=s">
 
 # Welcome! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
 
