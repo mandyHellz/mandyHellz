@@ -19,8 +19,12 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <br>
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandyHellz&show_icons=true&count_private=true&hide=stars&custom_title=Stats&title_color=E2ABB1&icon_color=E2ABB1&border_color=E2ABB1)
+
 ## Let's get connected:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-nunes-b2307483)](https://www.linkedin.com/in/amanda-nunes-b2307483)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mandyHellz)](https://github.com/mandyHellz)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=41999466274&text=Hello!)](https://api.whatsapp.com/send?phone=999637142_55+41+999466274&text=Hello!)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=link_do_seu_perfil)](https://www.instagram.com/invites/contact/?i=iom6eyb12q74&utm_content=3i541f)
+[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:carvalho_amanda@hotmail.com)](mailto:carvalho_amanda@hotmail.com)
