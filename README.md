@@ -25,7 +25,7 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mandyHellz)](https://github.com/mandyHellz)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=41999466274&text=Hello!)](https://api.whatsapp.com/send?phone=999637142_55+41+999466274&text=Hello!)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=link_do_seu_perfil)](https://www.instagram.com/invites/contact/?i=iom6eyb12q74&utm_content=3i541f)
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:carvalho_amanda@hotmail.com)](mailto:carvalho_amanda@hotmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carvalhonns.amanda@gmail.com)](mailto:carvalhonns.amanda@gmail.com)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
