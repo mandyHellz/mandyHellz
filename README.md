@@ -25,6 +25,17 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carvalhonns.amanda@gmail.com)](mailto:carvalhonns.amanda@gmail.com)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 28 January 2026 - To: 04 February 2026
+
+TypeScript   10 hrs 30 mins  █████████████████████▓░░░   86.68 %
+Bash         1 hr 32 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   12.67 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Public Key   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+```
+
 <!--END_SECTION:waka-->
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mandyHellz&show_icons=true&count_private=true&hide=stars&custom_title=Stats&title_color=E2ABB1&icon_color=E2ABB1&border_color=E2ABB1) -->
