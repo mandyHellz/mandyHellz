@@ -3,7 +3,9 @@
 # Welcome! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
 
 <h2>Hey, I'm Amanda!</h2>
-<p>A Biomedical-Pharmacist specialized in Molecular Biology who fell in love with the world of coding, and after a challenging career transition with a path full of studies, became a Front-end Developer on a continuous learning flow.</p>
+<p>Frontend Developer with almost 5 years of experience building modern, scalable and high-performance web applications.</p>
+<p>Currently working at **Mkplace**, focusing on **React, Next.js, TypeScript and Tailwind CSS**, contributing to multi-tenant architectures, reusable component libraries and performance-driven front-end solutions.</p>
+<p>Before moving into tech, I worked in **Biomedical and Pharmacy** fields — a background that strengthened my analytical thinking, attention to detail and process-oriented mindset.</p>
 <br>
 
 ## Tecnologies:
@@ -22,9 +24,6 @@
 ## Let's get connected:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-nunes-b2307483)](https://www.linkedin.com/in/amanda-nunes-b2307483)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/mandyHellz)](https://github.com/mandyHellz)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=41999466274&text=Hello!)](https://api.whatsapp.com/send?phone=999637142_55+41+999466274&text=Hello!)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=link_do_seu_perfil)](https://www.instagram.com/invites/contact/?i=iom6eyb12q74&utm_content=3i541f)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carvalhonns.amanda@gmail.com)](mailto:carvalhonns.amanda@gmail.com)
 
 <!--START_SECTION:waka-->
