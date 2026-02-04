@@ -4,7 +4,7 @@
 <p>Before moving into tech, I worked in <strong>Biomedical and Pharmacy</strong> fields — a background that strengthened my analytical thinking, attention to detail and process-oriented mindset.</p>
 
 ### What I enjoy building 🚀
-<ul>
+<ul align="left">
 <li>Design systems and reusable UI components</li>
 <li>Scalable front-end architectures (multi-tenant, config-driven)</li>
 <li>Performance, SEO and accessibility improvements</li>
@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
-## Let's get connected:
+### Let's get connected:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-nunes-b2307483)](https://www.linkedin.com/in/amanda-nunes-b2307483)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:carvalhonns.amanda@gmail.com)](mailto:carvalhonns.amanda@gmail.com)
 
