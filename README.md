@@ -1,6 +1,6 @@
 <img align="right" height="200" width="300" src="https://media0.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif?cid=790b76116c458e58ec2eed323ef6c0759e83c4c91edd8cb3&rid=giphy.gif&ct=s">
 
-##Hey, I'm Amanda! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
+## Hey, I'm Amanda! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
 <p>Frontend Developer with almost 5 years of experience building modern, scalable and high-performance web applications.</p>
 <p>Currently working at **Mkplace**, focusing on **React, Next.js, TypeScript and Tailwind CSS**, contributing to multi-tenant architectures, reusable component libraries and performance-driven front-end solutions.</p>
 <p>Before moving into tech, I worked in **Biomedical and Pharmacy** fields — a background that strengthened my analytical thinking, attention to detail and process-oriented mindset.</p>
@@ -10,19 +10,17 @@
 - Design systems and reusable UI components  
 - Scalable front-end architectures (multi-tenant, config-driven)  
 - Performance, SEO and accessibility improvements  
-- Clean, maintainable code with good DX  
+- Clean, maintainable code with good DX
+<br>
 
 ### Technologies:
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<div align="left">
+<img src={"https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"}/>
+<img src={"https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"}/>
+<img src={"https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"}/>
+<img src={"https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"}/>
+<img src={"https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"}/>
+</div>
 <br>
 
 ## Let's get connected:
