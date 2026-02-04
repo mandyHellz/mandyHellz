@@ -1,14 +1,18 @@
 <img align="right" height="200" width="300" src="https://media0.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif?cid=790b76116c458e58ec2eed323ef6c0759e83c4c91edd8cb3&rid=giphy.gif&ct=s">
 
-# Welcome! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
-
-<h2>Hey, I'm Amanda!</h2>
+##Hey, I'm Amanda! <img src="https://media3.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif?cid=790b76115a239b496d6f742915a68a654d812e6ac4b23111&rid=giphy.gif&ct=s" width="50">
 <p>Frontend Developer with almost 5 years of experience building modern, scalable and high-performance web applications.</p>
 <p>Currently working at **Mkplace**, focusing on **React, Next.js, TypeScript and Tailwind CSS**, contributing to multi-tenant architectures, reusable component libraries and performance-driven front-end solutions.</p>
 <p>Before moving into tech, I worked in **Biomedical and Pharmacy** fields — a background that strengthened my analytical thinking, attention to detail and process-oriented mindset.</p>
 <br>
 
-## Tecnologies:
+### What I enjoy building 🚀
+- Design systems and reusable UI components  
+- Scalable front-end architectures (multi-tenant, config-driven)  
+- Performance, SEO and accessibility improvements  
+- Clean, maintainable code with good DX  
+
+### Technologies:
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
