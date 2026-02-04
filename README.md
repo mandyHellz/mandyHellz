@@ -4,14 +4,12 @@
 <p>Frontend Developer with almost 5 years of experience building modern, scalable and high-performance web applications.</p>
 <p>Currently working at **Mkplace**, focusing on **React, Next.js, TypeScript and Tailwind CSS**, contributing to multi-tenant architectures, reusable component libraries and performance-driven front-end solutions.</p>
 <p>Before moving into tech, I worked in **Biomedical and Pharmacy** fields — a background that strengthened my analytical thinking, attention to detail and process-oriented mindset.</p>
-<br>
 
 ### What I enjoy building 🚀
 - Design systems and reusable UI components  
 - Scalable front-end architectures (multi-tenant, config-driven)  
 - Performance, SEO and accessibility improvements  
 - Clean, maintainable code with good DX
-<br>
 
 ### Tech Stack:
 <div align="left">
@@ -21,7 +19,6 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
-<br>
 
 ## Let's get connected:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amanda-nunes-b2307483)](https://www.linkedin.com/in/amanda-nunes-b2307483)
