@@ -27,10 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 April 2026 - To: 16 April 2026
+From: 10 April 2026 - To: 17 April 2026
 
-TypeScript                   ████████████████████████▒   97.21 %
-Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
+TypeScript                   ████████████████████████░   95.48 %
+Bash                         █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
 ```
 
 <!--END_SECTION:waka-->
