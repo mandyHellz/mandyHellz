@@ -27,11 +27,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 August 2026 - To: 28 August 2026
+From: 22 August 2026 - To: 29 August 2026
 
-Other                        ███████▓░░░░░░░░░░░░░░░░░   31.12 %
-TypeScript                   ███████░░░░░░░░░░░░░░░░░░   28.30 %
-Markdown                     ██████▒░░░░░░░░░░░░░░░░░░   24.96 %
+Other                        ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+Markdown                     ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
+TypeScript                   ██████░░░░░░░░░░░░░░░░░░░   23.90 %
 ```
 
 <!--END_SECTION:waka-->
